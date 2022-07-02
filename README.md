@@ -1,2 +1,2 @@
 # Hotstar_Clone-MAHARSHI
-Created with CodeSandbox
+Hotstar Clone created successfully
